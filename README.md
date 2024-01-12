@@ -28,12 +28,14 @@ Terima kasih telah menjadi bagian dari Bang Sampah, bersama-sama kita dapat menc
 
 # Screenshot Proyek
 
+Isi Screenshot
+
 ## Tentang Tim
 
-Hai! Kami kapaLaut, tim yang bersemangat dan berdedikasi untuk menangani permasalahan sampah melalui pendekatan edukasi dan bisnis yang inovatif. Adapun anggota tim kami sebagai berikut:
+Hai! Kami kapaLaut, tim yang bersemangat dan berdedikasi untuk menangani permasalahan sampah melalui pendekatan edukasi dan bisnis yang inovatif. Perkenalkan anggota tim kami:
 1. Moh Nurmanudin Choirunnizam (Hustler)
 2. Ahsan Nafis'alimi (Hipster)
 3. Alfian Maulana (Hacker)
 4. Faturrohman Fairuz Zaki (Hacker)
 
-Tim kapaLaut berkomitmen menciptakan perubahan positif dalam penanganan sampah dengan pendekatan edukasi dan model bisnis berkelanjutan. Sebagai platform pengelolaan sampah, Bang Sampah bukan hanya tempat untuk mengelola sampah tetapi juga sumber pengetahuan dan inspirasi untuk mengubah perilaku masyarakat. Kami bersama-sama menjadi pelopor inovasi untuk solusi sampah berkelanjutan, menggabungkan teknologi, kreativitas, dan strategi bisnis. Mari menjadikan dunia lebih bersih dan berkelanjutan bersama kapaLaut!
+Sebagai platform pengelolaan sampah, Bang Sampah bukan hanya tempat untuk mengelola sampah tetapi juga sumber pengetahuan dan inspirasi untuk mengubah perilaku masyarakat. Kami bersama-sama menjadi pelopor inovasi untuk solusi sampah berkelanjutan, menggabungkan teknologi, kreativitas, dan strategi bisnis. Mari menjadikan dunia lebih bersih dan berkelanjutan bersama kapaLaut!
