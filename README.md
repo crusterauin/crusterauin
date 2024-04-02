@@ -1,24 +1,20 @@
-<h1 align="left">What's up, Lur?</h1>
+<h1 align="center">What's up, Lur?</h1>
 
 ###
 
-<p align="left">My name is Fatur and I'm a informatics student, from Wonogiri.</p>
+<p align="center">My name is Fatur and I'm a informatics student, from Wonogiri.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Mobile Development</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Mobile Development</p>
+<h2 align="center">I code with</h2>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
@@ -31,5 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
