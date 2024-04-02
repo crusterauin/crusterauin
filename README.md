@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Fatur and I'm a informatics student, from Wonogiri.</p>
+<p align="center">My name is Fatur and I'm an informatics student, from Wonogiri.</p>
 
 ###
 
